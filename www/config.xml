@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.sx96345"
+        id        = "com.ionic.sx96345"
         version   = "1.0.0">
 
-    <name>绍兴市家政96345</name>
+    <name>智慧养老</name>
 
     <description>
-        绍兴市家政96345
+        智慧养老
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
@@ -66,6 +66,7 @@
     <gap:plugin name="org.apache.cordova.vibration" />
 	<gap:plugin name="nl.x-services.plugins.toast" version="2.0.2" />
 	<gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+    <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
