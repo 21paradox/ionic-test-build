@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.ionic.sx96345"
+        id        = "com.ionic.zhyl"
         version   = "1.0.0">
 
     <name>智慧养老</name>
